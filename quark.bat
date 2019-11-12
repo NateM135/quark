@@ -1,0 +1,3 @@
+echo Starting Quark...
+
+java -jar Quark.jar
